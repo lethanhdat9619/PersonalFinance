@@ -1,0 +1,4 @@
+#Wed Apr 29 09:45:24 ICT 2020
+base.0=C\:\\Users\\dat.lethanh\\Downloads\\mp-n9_7_mypersonalfinacen-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
